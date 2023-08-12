@@ -1,5 +1,5 @@
 # OoT Reloaded (GLideN64)
-Ocarina of Time Reloaded is an Ultra HD texture pack for GLideN64 and [Ship of Harkinian](https://github.com/GhostlyDark/OoT-Reloaded-SoH).
+Ocarina of Time Reloaded is an Ultra HD texture pack for GLideN64, [Dolphin](https://github.com/GhostlyDark/OoT-Reloaded-Dolphin) and [Ship of Harkinian](https://github.com/GhostlyDark/OoT-Reloaded-SoH).
 
 ![](/oot-reloaded.jpg)
 
