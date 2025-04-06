@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "GhostlyDark"
+    ],
+    "description" : "Ocarina of Time Ultra HD texture pack",
+    "display_name" : "OoT Reloaded",
+    "game_id" : "oot",
+    "id" : "OoT-Reloaded",
+    "minimum_recomp_version" : "1.2.0",
+    "short_description" : "UHD texture pack",
+    "version" : "11.0.0"
+}
