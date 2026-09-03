@@ -1801,7 +1801,7 @@ cp "_temp/THE LEGEND OF ZELDA#A62A3D39#0#2_all$EXT" "$PORT/objects/object_haka_o
 cp "_temp/THE LEGEND OF ZELDA#0BFCDCFD#4#0_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_016FF0$EXT"
 cp "_temp/THE LEGEND OF ZELDA#2ACB161D#4#0_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0171F0$EXT"
 cp "_temp/THE LEGEND OF ZELDA#61990A08#4#0_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0173F0$EXT"
-cp "_temp/THE LEGEND OF ZELDA#F71B55E6#4#0_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0175F0$EXT"
+cp "_temp/THE LEGEND OF ZELDA#2A434F41#4#0_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0175F0$EXT"
 cp "_temp/THE LEGEND OF ZELDA#6866A3D6#0#2_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0177F0$EXT"
 cp "_temp/THE LEGEND OF ZELDA#8C802B0C#0#2_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_017FF0$EXT"
 cp "_temp/THE LEGEND OF ZELDA#F8BE02EB#0#2_all$EXT" "$PORT/objects/object_haka_objects/object_haka_objects_Tex_0187F0$EXT"
