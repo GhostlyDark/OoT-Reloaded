@@ -820,7 +820,6 @@ cp "_temp/THE LEGEND OF ZELDA#40631E35#0#2_all$EXT" "$PORT/objects/gameplay_keep
 cp "_temp/THE LEGEND OF ZELDA#3938CC7C#0#2_all$EXT" "$PORT/objects/gameplay_keep/gSignPostWoodTex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#8FDD8F28#0#2_all$EXT" "$PORT/objects/gameplay_keep/gSignRectangularFrontTex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#A5E8612F#0#2_all$EXT" "$PORT/objects/gameplay_keep/gSignRectangularSideTex$EXT"
-cp "_temp/THE LEGEND OF ZELDA#C1AB1C68#4#0_all$EXT" "$PORT/objects/gameplay_keep/gSun1Tex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#0B0111F8#4#1_all$EXT" "$PORT/objects/gameplay_keep/gTorchFlameTex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#A59438DD#4#0_all$EXT" "$PORT/objects/gameplay_keep/gUnknownCircle3Tex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#AA55A6AF#4#1_all$EXT" "$PORT/objects/gameplay_keep/gUnknownCircle4Tex$EXT"
