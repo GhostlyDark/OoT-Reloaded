@@ -18,6 +18,14 @@
         {
             "operation": "stall",
             "wildcard": "Background\\JPEG\\Single-File (Sixteen-by-Nine)\\*"
+        },
+        {
+            "operation": "preload",
+            "wildcard": "Link\\*"
+        },
+        {
+            "operation": "stall",
+            "wildcard": "Link\\Model Edits\\*"
         }
     ],
     "shiftFilters": [],
