@@ -2541,6 +2541,8 @@ cp "_temp/THE LEGEND OF ZELDA#52D6558A#2#1#3BE679BB_ciByRGBA$EXT" "$PORT/objects
 cp "_temp/THE LEGEND OF ZELDA#19694E17#2#1#385BC9F7_ciByRGBA$EXT" "$PORT/objects/object_ms/gBeanSalesmanSkinGradientTex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#C1B5A1F2#2#1#AC3E0004_ciByRGBA$EXT" "$PORT/objects/object_ms/gBeanSalesmanTattooTex$EXT"
 cp "_temp/THE LEGEND OF ZELDA#B9BCE911#4#1_all$EXT" "$PORT/objects/object_mu/object_mu_Tex_000610$EXT"
+cp "_temp/THE LEGEND OF ZELDA#2C3E7650#4#1_all$EXT" "$PORT/objects/object_mu/object_mu_Tex_000650$EXT"
+cp "_temp/THE LEGEND OF ZELDA#10A09EAE#4#1_all$EXT" "$PORT/objects/object_mu/object_mu_Tex_000690$EXT"
 cp "_temp/THE LEGEND OF ZELDA#E364C17E#2#1#AD848448_ciByRGBA$EXT" "$PORT/objects/object_mu/object_mu_Tex_000710$EXT"
 cp "_temp/THE LEGEND OF ZELDA#2689F3B7#2#1#FFF8803A_ciByRGBA$EXT" "$PORT/objects/object_mu/object_mu_Tex_000790$EXT"
 cp "_temp/THE LEGEND OF ZELDA#C1BDD05D#2#1#B45B29A6_ciByRGBA$EXT" "$PORT/objects/object_mu/object_mu_Tex_0007D0$EXT"
