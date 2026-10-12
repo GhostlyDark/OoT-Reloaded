@@ -612,8 +612,8 @@
     "textureHeight": 32
   },
   "textures/object_fd/gVolvagiaBossTitleCardENGTex": {
-    "hash": "f5459af5418ac94a533d7b5409cfafba3896e3043d05f29aca9e0883ec953192",
-    "textureType": 6,
+    "hash": "5600e1bc3d3410f4690f9f1e6fb840306d9867e1419f22bc84a06ffc0c06e5c7",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -1330,12 +1330,6 @@
     "textureType": 7,
     "textureWidth": 64,
     "textureHeight": 64
-  },
-  "objects/object_mystery_item/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "scenes/mq/HIDAN_scene/HIDAN_room_6Tex_006790": {
     "hash": "351263dfc44a36a85f68eae2bf76690e0d0dd2b4505ececc52f40eb9caf67f46",
@@ -2094,8 +2088,8 @@
     "textureHeight": 16
   },
   "textures/object_kingdodongo/gKingDodongoTitleCardENGTex": {
-    "hash": "2ef85d2079e698c0e5b4152867c0cde81c84a37976284c192c70dd890ea66fb3",
-    "textureType": 6,
+    "hash": "037f89f07453ee54208d3ac81a23cef9ef5e3977e16ed4e634280cc5b1679d60",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -2110,6 +2104,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "textures/icon_item_static/gOpenChestsTex": {
+    "hash": "762728d4ac4d3a797be9fc1faddacbf7c2acb171b3b198ab988f9806c165cabb",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/item_name_static/gFireMedallionItemNameGERTex": {
     "hash": "90a491aa3464e44fc4aa003051f0030b42f43750776d3dee9d7c18c3ad25c5bc",
@@ -3167,6 +3167,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "objects/object_nutbag/DekuNut": {
+    "hash": "9006c42e4f1830e15dd037ccfa6e49617e4d79fbb84bad5cb264ca7f2515300b",
+    "textureType": 6,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "textures/kanji/gMsgKanji85A3HalfwidthNakatenTex": {
     "hash": "bc326a70d92ae248052da50e9686e9254c6c158412db9866c92c9ef0469e8617",
     "textureType": 5,
@@ -3282,8 +3288,8 @@
     "textureHeight": 32
   },
   "textures/object_sst/gBongoTitleCardJPNTex": {
-    "hash": "9839708655e45fec7c3e8de957e13159f73081b43c8e6207faa77fd49961975c",
-    "textureType": 6,
+    "hash": "89a2fbce790d1c8371a29aac9a19efe4ef187e21ac05648e58bcf25f51130391",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -3767,17 +3773,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00CF50": {
-    "hash": "7f5d038ef43c3d27d721b6eeca93f4a824fe03ee0235a55ebb10a7dcb046b4e7",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/g_pn_39/gDeathMountainTrailTitleCardFRATex": {
     "hash": "abe1bb32fa1ee639ec57fc001e1d54e40c076bfc96835c1745df080b0ca10414",
     "textureType": 8,
     "textureWidth": 144,
     "textureHeight": 24
+  },
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00CF50": {
+    "hash": "7f5d038ef43c3d27d721b6eeca93f4a824fe03ee0235a55ebb10a7dcb046b4e7",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/kanji/gMsgKanji98E0EmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
@@ -7715,17 +7721,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "scenes/mq/men_scene/men_room_0Tex_009538": {
-    "hash": "07dda71ebb2ce5ce7600a9a6b57ab7da92916696609075169b090859cc8c61cd",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/shared/shrine_scene/shrine_room_0Background_007AF0": {
     "hash": "d9bd2bc9a1cddc19a6178e4c463ec6ad008dc2ca25f36289377e27fa7c76ae39",
     "textureType": 10,
     "textureWidth": 320,
     "textureHeight": 240
+  },
+  "scenes/mq/men_scene/men_room_0Tex_009538": {
+    "hash": "07dda71ebb2ce5ce7600a9a6b57ab7da92916696609075169b090859cc8c61cd",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/item_name_static/gGoronsRubyItemNameGERTex": {
     "hash": "f0691a2569fa09c0def61f814cf689fe329d30553da5d90fa1ca281d611d01b0",
@@ -9948,8 +9954,8 @@
     "textureHeight": 32
   },
   "textures/object_goma/gGohmaTitleCardENGTex": {
-    "hash": "50b15473eea0804b1ae12ccd00f94f0caef55b754c2fd464047a948773a84fbb",
-    "textureType": 6,
+    "hash": "29667c5163440121481379cc26d54f9c1cdef13c2d22ce2d07e3faaa0f308ff2",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -10259,17 +10265,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00EF50": {
-    "hash": "4486fe229ea5a78134fd905cbf1b44a7c857aca62392245af6cd4c43ac8c5621",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/parameter_static/gOcarinaBtnIconCLeftTex": {
     "hash": "851344c238c6dbd8d7d434bc15bd4e1ca99e3130efa5767056113cbc34735577",
     "textureType": 8,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00EF50": {
+    "hash": "4486fe229ea5a78134fd905cbf1b44a7c857aca62392245af6cd4c43ac8c5621",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/bdan_scene/bdan_room_2Tex_008E38": {
     "hash": "fcc7d357404847cde4251a5ece6e8f0f42d6373373a5f4f412ad846b67fa379f",
@@ -10522,12 +10528,6 @@
     "textureType": 7,
     "textureWidth": 128,
     "textureHeight": 16
-  },
-  "objects/object_housekey/HouseKey_Tag": {
-    "hash": "b3558f9af28e6eb85cfe1367bc69e924ef184705360af01a7928b5e77ddfecd4",
-    "textureType": 2,
-    "textureWidth": 64,
-    "textureHeight": 64
   },
   "scenes/mq/Bmori1_scene/Bmori1_room_12Tex_005E00": {
     "hash": "92fac58bece5f40df4122fc44a557c6f100c710fd7b86314fe4e7c8550981bfa",
@@ -11670,8 +11670,8 @@
     "textureHeight": 16
   },
   "textures/object_ganon/gGanondorfTitleCardGERTex": {
-    "hash": "5d12e81c11646033c9a1c377fd5587fe8837eccada317456be763c87ab03c5ed",
-    "textureType": 6,
+    "hash": "b3cc9dce901c21ee2f9d3f63133564417c26f62604c87d2abb15f4485963cc40",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -11832,8 +11832,8 @@
     "textureHeight": 64
   },
   "textures/object_bv/gBarinadeTitleCardJPNTex": {
-    "hash": "c96fcb79acaabb48156161029c64e32bd52e9ec0f382c4d1af94efbb88f0233c",
-    "textureType": 6,
+    "hash": "4535ea7f0cd5cbcf1ec1f1abace459b36da9aeacc1464e8e2e76fc40d8cd7f9b",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -11844,8 +11844,8 @@
     "textureHeight": 16
   },
   "textures/object_kingdodongo/gKingDodongoTitleCardFRATex": {
-    "hash": "c70779c92720b124e245bce90c0cb74df5bca406cce3af2c8c593c692ec1c57a",
-    "textureType": 6,
+    "hash": "9b47533fc77e7e19e5ef2507ce1fd4afac6913d9c4655c3296b51eddc3c91d5a",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -11994,8 +11994,8 @@
     "textureHeight": 64
   },
   "textures/object_kingdodongo/gKingDodongoTitleCardGERTex": {
-    "hash": "c29e28a001abb59e6205b3fb501654cc09dc2dbd2afc6fb5a05cab066ab1c09b",
-    "textureType": 6,
+    "hash": "3d9e5f960f526bda327041d31b106056c8097dd2da725ba4dcfc3b459bd50e98",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -12768,8 +12768,8 @@
     "textureHeight": 16
   },
   "textures/object_tw/gTwinrovaTitleCardGERTex": {
-    "hash": "640ee0a3c7202e7a11d7b32b094317a393c11d2021c3d3473df99ce4fe92b3f4",
-    "textureType": 6,
+    "hash": "35e10c4046cc80c8dab68c8431a5cc3b9fa0e992772852a399a770de94c981da",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -13440,8 +13440,8 @@
     "textureHeight": 64
   },
   "objects/object_mo/gMorphaTitleCardTex": {
-    "hash": "4da41600b8bb39230794dcf9acd167e5e0443e92607138381f0f1cc90fa893cd",
-    "textureType": 6,
+    "hash": "3f440706373c720d1b12e7e3347d0b273d0180eddfc3abf38517c2e7b0d15870",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -14046,8 +14046,8 @@
     "textureHeight": 64
   },
   "textures/object_fhg/gPhantomGanonTitleCardGERTex": {
-    "hash": "1317699262c8e06d079d5f357317bdce6b159eea6fffade11af9dfb6234c5179",
-    "textureType": 6,
+    "hash": "1af802fd0d038d961ad394349ec1470b3ccf7c58e03e5e75104af2b759c699c4",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -14442,8 +14442,8 @@
     "textureHeight": 64
   },
   "textures/object_bv/gBarinadeTitleCardGERTex": {
-    "hash": "39891648ecc88c49b19c2d3daeba896ba7d6c901d75c536038a03f0795fa6a27",
-    "textureType": 6,
+    "hash": "3c8c9e095dca6e22206076b2599221ca8c0f522adeea2a6d579f0270941ed8b2",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -15587,12 +15587,6 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "objects/object_key/Hilite_new": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "textures/kanji/gMsgKanji90DFTex": {
     "hash": "5b456c163198270b757e5c281ff4bc6ef7e155902db013b1b81ca1e1939e5ea8",
     "textureType": 5,
@@ -16485,12 +16479,6 @@
     "hash": "c1874f27fed40c0c560d25d1209acdf5c70a4b4cf9ecbb102572c51e36285f8c",
     "textureType": 5,
     "textureWidth": 128,
-    "textureHeight": 32
-  },
-  "objects/object_ocarina_c_up_button/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
-    "textureWidth": 32,
     "textureHeight": 32
   },
   "scenes/mq/MIZUsin_scene/MIZUsin_room_15Tex_002C68": {
@@ -18144,8 +18132,8 @@
     "textureHeight": 85
   },
   "textures/object_fhg/gPhantomGanonTitleCardFRATex": {
-    "hash": "6909f2aa2611cee615a5117b58b7cd5f9b98f3be6da4a4f9365793df9334acf6",
-    "textureType": 6,
+    "hash": "7655f1b0461c945ee3e65c4bbd6b4dc770c743c58340e1098d1aec8989504b2a",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -19985,12 +19973,6 @@
     "textureWidth": 160,
     "textureHeight": 160
   },
-  "objects/object_jabbernut/LeafTex": {
-    "hash": "7aba9268174bcc59b165d0528cb748e20a486d8c5c685757e1bbc263c04c412b",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/ydan_scene/ydan_room_10Tex_001BE0": {
     "hash": "3ba3c0a105d5df7f8df45eb744b5b9076088b55450311ad01a671f0f06698042",
     "textureType": 4,
@@ -20297,17 +20279,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "objects/object_oE1/object_oE1_Tex_006708": {
-    "hash": "88b3b865795c4c02700aff62a356ee7b0b4cb46dd10992020b7a82f9443e2c08",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 8
-  },
   "scenes/shared/souko_scene/souko_sceneTex_004C10": {
     "hash": "1587794dbcbafc1e7c78809303392d8467efdd80437c808d3d34b1d9780209c7",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 16
+  },
+  "objects/object_oE1/object_oE1_Tex_006708": {
+    "hash": "88b3b865795c4c02700aff62a356ee7b0b4cb46dd10992020b7a82f9443e2c08",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 8
   },
   "scenes/shared/kakusiana_scene/kakusiana_room_1Tex_004990": {
     "hash": "00325c98307edbcd6c919bcb8cffa4998f8cb3fbb73849bcd8cdab9bd36e60c6",
@@ -24485,12 +24467,6 @@
     "textureWidth": 96,
     "textureHeight": 85
   },
-  "objects/object_jabbernut/shadow": {
-    "hash": "caa058daf2d7bd7d65fff183a01ce3abfcfa5223e8d971da352d7bd1146a227a",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/ganontika_scene/ganontika_room_2Tex_002FD8": {
     "hash": "9480720af3aa29932b7f413704d324fcc58371f09dd4f88d9dc84a5baea5df72",
     "textureType": 2,
@@ -24918,8 +24894,8 @@
     "textureHeight": 256
   },
   "textures/object_ganon2/gGanonTitleCardGERTex": {
-    "hash": "91cc0abe39f7b2e24f451705e690086b4e840a5c2c1108206e5a952bfeca5f58",
-    "textureType": 6,
+    "hash": "5181d7bcd2e667da8ab44eb9a84961d5b1e67410e86dc46d5fc2b06286e108d7",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -26033,6 +26009,12 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
+  "textures/icon_item_static/gClimbTex": {
+    "hash": "bc37ab58e6815316b17afbc726836d5d58b5d6eee96bd8d8598c513d8938c1cd",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/mq/HIDAN_scene/HIDAN_room_20Tex_003508": {
     "hash": "785ae75f313b31fc8a92e7161d87a135452b7c94d5332f751d3c961b59c2b373",
     "textureType": 2,
@@ -26567,17 +26549,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/syotes_scene/syotes_room_0Tex_0031E8": {
-    "hash": "8f829d38550cc494cefaeefd66bf27079749451bb536d3bbd0f193040426c153",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/do_action_static/gNum4DoActionGERTex": {
     "hash": "23cccf57da4a517b6cce74690f4b720913a1e8f7d74ad1675aa2ee5fd768ef60",
     "textureType": 7,
     "textureWidth": 48,
     "textureHeight": 16
+  },
+  "scenes/shared/syotes_scene/syotes_room_0Tex_0031E8": {
+    "hash": "8f829d38550cc494cefaeefd66bf27079749451bb536d3bbd0f193040426c153",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_fhg/object_fhgTex_003BA0": {
     "hash": "a2747a984cee26dc57d4ec9d9351ae1a648aadf03789b391e7b672e10440ee35",
@@ -27281,12 +27263,6 @@
     "textureWidth": 32,
     "textureHeight": 128
   },
-  "objects/object_ocarina_c_right_button/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_sd/gEnHeishiKingGuardChestArmorTex": {
     "hash": "71bb7a582b4574f86387d217e8e1defab27c446afec39e17edbfd9f1c2c4653c",
     "textureType": 4,
@@ -27688,12 +27664,6 @@
     "textureType": 1,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "objects/object_keyring/Hilite_new": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
   },
   "textures/map_name_static/gHyruleFieldPositionNameJPNTex": {
     "hash": "7ac0c93e859bf8ced8aa3b8f505df3220516ccc16c4eb7e0136a47521d9bfe01",
@@ -30119,17 +30089,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/shared/depth_test_scene/depth_test_room_0Background_0006F0": {
-    "hash": "6b874127fe23a9741c804dbe4ce725c20a9ac7d835618bf9522dd830d7115265",
-    "textureType": 10,
-    "textureWidth": 320,
-    "textureHeight": 240
-  },
   "objects/gameplay_dangeon_keep/gameplay_dangeon_keepTex_000000": {
     "hash": "378b98abf65c9658a5c612d119b4044d1e0fb7ca17bf28f83455a9ec6ce8ec0a",
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "scenes/shared/depth_test_scene/depth_test_room_0Background_0006F0": {
+    "hash": "6b874127fe23a9741c804dbe4ce725c20a9ac7d835618bf9522dd830d7115265",
+    "textureType": 10,
+    "textureWidth": 320,
+    "textureHeight": 240
   },
   "textures/kanji/gMsgKanji9076Tex": {
     "hash": "2caf7074e9e3559681be09934584846a524b2abc2f8a551a3b944101bfb2d9a5",
@@ -30298,12 +30268,6 @@
     "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 16
-  },
-  "objects/object_jabbernut/shinyspot": {
-    "hash": "d9dc904fbdfb2b5d092d0146eacac8fdd5cb64d8492539529d5bf4a825b1d151",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "scenes/nonmq/ganontika_scene/ganontika_room_12Tex_009270": {
     "hash": "72e82b651cc62596a296467f8c174b80d0bb320e5f79835612d15fb464a0b6a8",
@@ -31679,14 +31643,14 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_008F50": {
-    "hash": "d5a61911e7e01e4b54e31598bef4a9792738fa1af8e397616c34b49adc6cce99",
+  "scenes/mq/HIDAN_scene/HIDAN_room_23Tex_004518": {
+    "hash": "a945b86e22403e937419d27ec08a1c56b67fd557ec26b7e585e0e51c1c1c0262",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/mq/HIDAN_scene/HIDAN_room_23Tex_004518": {
-    "hash": "a945b86e22403e937419d27ec08a1c56b67fd557ec26b7e585e0e51c1c1c0262",
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_008F50": {
+    "hash": "d5a61911e7e01e4b54e31598bef4a9792738fa1af8e397616c34b49adc6cce99",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -32616,8 +32580,8 @@
     "textureHeight": 32
   },
   "textures/object_tw/gTwinrovaTitleCardJPNTex": {
-    "hash": "0c08212ee12d751a9ff30867d86113c735e91aebfb0a1f5965389e42881b1157",
-    "textureType": 6,
+    "hash": "80536a394f155246db6b5bc543388bf40042b17bb852ac52de6887f045e073b2",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -32764,12 +32728,6 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
-  },
-  "objects/object_gi_fishing_pole/eff_unknown_10_i8": {
-    "hash": "146e31ebac5ecb6219c43d987aa256a3d2557c5722ea4d8f392853e279f09de0",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "objects/object_ossan/object_ossanTex_008A38": {
     "hash": "ad8a47e595b21045296e99e46ec961e4b7984bc9717e160d40f71a06318433ee",
@@ -33029,17 +32987,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "objects/object_ocarina_a_button/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/kanji/gMsgKanji81CEEmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_stickbag/DekuStick": {
+    "hash": "4579085492ddcb82cd9745f2e6624964cddbfbd1d65aecbf352c6e96510511f2",
+    "textureType": 6,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "textures/icon_item_nes_static/gPauseMap10ENGTex": {
     "hash": "1d896efbb56586ddb87a84349d8154c294ace42c20a43e138a4976d17a4ee098",
@@ -33184,6 +33142,12 @@
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "objects/object_housekey/gSoHHouseKeyTagBackTex": {
+    "hash": "19e5bc3ae421f18316931e4b406c3c98e487b6792d78b30f8bfd80dd776e6e71",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 32
   },
   "scenes/nonmq/ganontika_scene/ganontika_room_5Tex_003B18": {
     "hash": "5de6af35ef2bd40b4c72a8e6287b7a872c997a0caee4bd99e87a1f07f6968bc8",
@@ -33492,8 +33456,8 @@
     "textureHeight": 16
   },
   "textures/object_ganon2/gGanonTitleCardENGTex": {
-    "hash": "74355363b736a800da28cd56bd46718d76491a74baf4d1a69901118ffa166f1e",
-    "textureType": 6,
+    "hash": "bda9e094131a4d31ebbdfcc34bf50a4c17942160d7f73981a1376c7f29d414d4",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -33713,17 +33677,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/gameplay_keep/gUnusedFairyWingTex": {
-    "hash": "a0dbfd28866a67c5cfa9988e80af23fa007081bebcd51efbd4a2a2339d5a313f",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "scenes/shared/souko_scene/souko_room_0Tex_0090F8": {
     "hash": "31ee465879a73647415ed702cd6f7b93c855e13fb53f8e2c9658a5f1bf011bec",
     "textureType": 5,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/gameplay_keep/gUnusedFairyWingTex": {
+    "hash": "a0dbfd28866a67c5cfa9988e80af23fa007081bebcd51efbd4a2a2339d5a313f",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "textures/kanji/gMsgKanji91A7Tex": {
     "hash": "3ed9692e4536632055f3499dbca793b55b267584eddf9455f2a5ccc698a946c0",
@@ -34265,6 +34229,12 @@
     "textureWidth": 96,
     "textureHeight": 85
   },
+  "objects/object_jabbernut/gSoHShinySpotTex": {
+    "hash": "edf183d4353d3477059c867e3b820f3f93d6800cbfb6fa88c26ca40d029bc013",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "textures/kanji/gMsgKanji8A56Tex": {
     "hash": "16743b9389d04a5bfde16c01ba9138bd46607be7fcd7f85df204a4b121b92ff3",
     "textureType": 5,
@@ -34644,8 +34614,8 @@
     "textureHeight": 16
   },
   "objects/object_sst/gBongoTitleCardTex": {
-    "hash": "44cc020087c9688e452c055d63832ddb1bfd93a7f11af1442e1fe031b864736d",
-    "textureType": 6,
+    "hash": "ee8794558fa6c9fa1643c332bd5d196110d397b594eed2d008a0450ae572db16",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -35562,8 +35532,8 @@
     "textureHeight": 16
   },
   "textures/object_fhg/gPhantomGanonTitleCardJPNTex": {
-    "hash": "12c0dcbacec8577e3f4d1c8abfd8858741eeee1a913a37560508153727b25e54",
-    "textureType": 6,
+    "hash": "3f50114fddb83e376046484495df4c63d69083f6c2707a055b96d218be898a98",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -36330,8 +36300,8 @@
     "textureHeight": 32
   },
   "textures/object_fd/gVolvagiaBossTitleCardJPNTex": {
-    "hash": "528b94870e44fb48d26927ed75a5ce674e207f54bf1f4949d5fe38b52ba25923",
-    "textureType": 6,
+    "hash": "06f23672a3a625c7f0b7cac5139cacbc6bdfdb9482694c8c99237c0b282758fc",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -39749,6 +39719,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "objects/gameplay_keep/gSoHLeafTex": {
+    "hash": "0a0588448cd0d46ad0a9f2f101529bd61d98e9a53b901cba1cca9ccb0556d282",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "textures/kanji/gMsgKanji954ETex": {
     "hash": "016040ad77f8ed6f872a8d8a33a85797fd9a56d3035a6a6f458daa7083eaadb9",
     "textureType": 5,
@@ -40223,12 +40199,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_bombchubag/Hilite_new": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/mq/HAKAdan_scene/HAKAdan_room_15Tex_0056C0": {
     "hash": "876cbb868d4c25949f3aab7927c31913956819418c267dacd2f57062aa70f32a",
     "textureType": 5,
@@ -40444,12 +40414,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "textures/title_static/gFileSelRANDButtonTex": {
-    "hash": "daa3abe4fed98d68588917f9b3fac2a883d3aa0f993779f3e5c378019e480c41",
-    "textureType": 9,
-    "textureWidth": 44,
-    "textureHeight": 16
   },
   "textures/kanji/gMsgKanji8475HylianRaTex": {
     "hash": "089d2f1a4aa5096b05815d42b77581f31e00ad2c7a5c6926c264e3107fa93e31",
@@ -43818,8 +43782,8 @@
     "textureHeight": 32
   },
   "objects/object_bv/gBarinadeTitleCardTex": {
-    "hash": "902135870318d595c641b0fc3e9f04e562537f2ca9fe8ee44e3820542fada2ff",
-    "textureType": 6,
+    "hash": "93b1d9f9fd8f236fdeba765000f1c54df17f1ebf3dc6d3bdf2217758a1f8e945",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -43944,8 +43908,8 @@
     "textureHeight": 64
   },
   "textures/object_kingdodongo/gKingDodongoTitleCardJPNTex": {
-    "hash": "4214d3a87cd2f82c0bc6b3ecfccaaf5838eded6ea567133fdba7ad9f71791fe5",
-    "textureType": 6,
+    "hash": "ad7e14c320df1733bc2850cf09884de15cb3fac67499c713f923c3d23643f058",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -44537,12 +44501,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_gi_fishing_pole/eff_unknown_10_i8_png": {
-    "hash": "146e31ebac5ecb6219c43d987aa256a3d2557c5722ea4d8f392853e279f09de0",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/kanji/gMsgKanji96CDTex": {
     "hash": "aa1e1b1643da7c8c0f4874069bd1ae9e39e0efacbafcbecf6ea14862577a42b6",
     "textureType": 5,
@@ -44655,6 +44613,12 @@
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_keep/gChestLockTex": {
+    "hash": "71a8288c8c2bd5fde4edebd2e880afd2a35252ab9c5cfca986a94b01aa3b48a8",
+    "textureType": 6,
+    "textureWidth": 8,
     "textureHeight": 16
   },
   "scenes/shared/spot09_scene/spot09_sceneTex_00D160": {
@@ -46859,17 +46823,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/testroom_scene/testroom_sceneTex_002A00": {
-    "hash": "530b3f46fce357665ed44f3d877b992c77f1ee4871524d2f53eb48a4b524dcbe",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "textures/do_action_static/gEnterDoActionFRATex": {
     "hash": "084ff2ab9c8b422dacf768d7a0368012415acdf38e9f53d634b6210d410ca551",
     "textureType": 7,
     "textureWidth": 48,
     "textureHeight": 16
+  },
+  "scenes/shared/testroom_scene/testroom_sceneTex_002A00": {
+    "hash": "530b3f46fce357665ed44f3d877b992c77f1ee4871524d2f53eb48a4b524dcbe",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "scenes/shared/hairal_niwa_n_scene/hairal_niwa_n_sceneTex_0020F0": {
     "hash": "d5a61911e7e01e4b54e31598bef4a9792738fa1af8e397616c34b49adc6cce99",
@@ -48528,8 +48492,8 @@
     "textureHeight": 32
   },
   "objects/object_fd/gVolvagiaTitleCardTex": {
-    "hash": "807942dc527a1bb2392423c7fb148f7916ef367f8dc6fbb474d3e3659598c894",
-    "textureType": 6,
+    "hash": "7fa1d3c472a348d91b98a65fa1915c3a258f8bb540f81e50869178e1bd50d0b8",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 120
   },
@@ -49523,17 +49487,17 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
-  "scenes/shared/ganon_tou_scene/ganon_tou_room_0Tex_00CF50": {
-    "hash": "3459287de89f3d6bd623787f6674a448fb7836aa43c28628903b94e8b70e4f95",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/shared/shrine_scene/shrine_room_0Background_02D2F0": {
     "hash": "3092144ace9cdc8e1b8b4ed8efb17f8cf01eea7aa28bd00ccabf3507f6c0cd31",
     "textureType": 10,
     "textureWidth": 320,
     "textureHeight": 240
+  },
+  "scenes/shared/ganon_tou_scene/ganon_tou_room_0Tex_00CF50": {
+    "hash": "3459287de89f3d6bd623787f6674a448fb7836aa43c28628903b94e8b70e4f95",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/item_name_static/gMagicBeansItemNameFRATex": {
     "hash": "d8439fdc4ebf57577d6e3477b93a6d8c1ebff6bd716a440cb6c63fbe24d704dc",
@@ -52061,12 +52025,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "objects/object_triforce_piece_0/noise_tex": {
-    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_ganon2/gGanonTailTex": {
     "hash": "9995600a9cdf94b7bfa065ff821abaa0781e1c3dee38ee6271d456e0ccf137c9",
     "textureType": 4,
@@ -52152,8 +52110,8 @@
     "textureHeight": 64
   },
   "textures/object_sst/gBongoTitleCardGERTex": {
-    "hash": "e883816b5afb2b54e0a8ce0e50120c15b6212ccc52c0736d842a499193bad14e",
-    "textureType": 6,
+    "hash": "c832356f4f22cb4bd9a68cd9a85d3357b43b5f61237c32c87b1a7a23a73b78b2",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -54323,17 +54281,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_016BF8": {
-    "hash": "a4ca1bd6578a79f30a4398e3f6cb2c5db6433fe66ab661cbbe7879ef31c25f86",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "textures/title_static/gFileSelFile2ButtonGERTex": {
     "hash": "3c63ae9df7a0215775c80ee13cdc2f397499424d6ff1d51145c32e3f17616573",
     "textureType": 9,
     "textureWidth": 64,
     "textureHeight": 16
+  },
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_016BF8": {
+    "hash": "a4ca1bd6578a79f30a4398e3f6cb2c5db6433fe66ab661cbbe7879ef31c25f86",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "scenes/shared/kakusiana_scene/kakusiana_room_1Tex_002A18": {
     "hash": "bb4709cf2abe0068571f7152096fbe874da5420b28994727d838df9371f626ab",
@@ -56238,8 +56196,8 @@
     "textureHeight": 32
   },
   "textures/object_ganon/gGanondorfTitleCardJPNTex": {
-    "hash": "c510ba573ab90fbb443d17027be136a4377819468f746abfcebcc18c622b5973",
-    "textureType": 6,
+    "hash": "ec6e1635663f2952f7ade5b482adf2afa39e715c7ad740d53165e70898ab747c",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -57203,15 +57161,15 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00B750": {
-    "hash": "eeec0c12ba689c89b1864a8cd40e998d54f296149187aa0c657cb17349b3ceba",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "scenes/shared/ydan_boss_scene/ydan_boss_room_0Tex_001790": {
     "hash": "50c9d1d793b47423bbe525ab7590430d262ea3e7f3a41da145d04110a24df23c",
     "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_00B750": {
+    "hash": "eeec0c12ba689c89b1864a8cd40e998d54f296149187aa0c657cb17349b3ceba",
+    "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
   },
@@ -57228,8 +57186,8 @@
     "textureHeight": 16
   },
   "objects/object_tw/gTwinrovaTitleCardTex": {
-    "hash": "db9e90eb652ce8fda5f016770a167a80db50abe0b25f419e095612930ca9fa51",
-    "textureType": 6,
+    "hash": "49f0550922d2fdf90dabc25d6b50b08e93c436d224ccd37e7ee81225b3cac45c",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -59220,8 +59178,8 @@
     "textureHeight": 32
   },
   "textures/object_mo/gMorphaTitleCardFRATex": {
-    "hash": "5794de57a348f0577d5c447f9fd60df2accb0f1bcfb6f6172c0cc55901ef796f",
-    "textureType": 6,
+    "hash": "2cf3ac78d0eb417afbe21338be1965d880d044c908373cc39825bbd4683fd893",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -59795,17 +59753,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_010F50": {
-    "hash": "8b77a52224a37439225fc62350fb63cee80f795dc93bb5f68ee1051d9be6dcad",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_oE12/object_oE12_Tex_002880": {
     "hash": "917b7e03d06852f90ebad97ec45f02e500f017b7aa3d0674801a3b3694ead09c",
     "textureType": 2,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "scenes/shared/hairal_niwa2_scene/hairal_niwa2_room_0Tex_010F50": {
+    "hash": "8b77a52224a37439225fc62350fb63cee80f795dc93bb5f68ee1051d9be6dcad",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/kanji/gMsgKanji95E5Tex": {
     "hash": "d8b59f3d05df7c4a0962fe9d30e4f458def2e126c5928884b7a2af6c69409289",
@@ -59927,17 +59885,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "scenes/shared/syotes_scene/syotes_room_0Tex_0051E8": {
-    "hash": "c7ca6300070f8ce30e7b2538b1eff1fb23d4d3931b0942a470d8151bb11c7c80",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "textures/item_name_static/gBiggoronsSwordItemNameFRATex": {
     "hash": "0367f11a81e7188a5a132e8840446d606b9a6b4ecf9fd1afe98461153e6e87be",
     "textureType": 7,
     "textureWidth": 128,
     "textureHeight": 16
+  },
+  "scenes/shared/syotes_scene/syotes_room_0Tex_0051E8": {
+    "hash": "c7ca6300070f8ce30e7b2538b1eff1fb23d4d3931b0942a470d8151bb11c7c80",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "objects/object_fd2/gHoleVolvagiaEyeHalfTex": {
     "hash": "883f024e76b1a957e57dbd44ac2f9799394c40217c2c56aaddd945fea83b8da1",
@@ -59968,12 +59926,6 @@
     "textureType": 1,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "objects/object_bosskey/Hilite_new": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
   },
   "scenes/mq/HIDAN_scene/HIDAN_room_16Tex_0077E0": {
     "hash": "1d582358c761f126252c44fc663c9c462849171875bd5becf3bfb8ecb10dc618",
@@ -60072,8 +60024,8 @@
     "textureHeight": 1
   },
   "textures/object_ganon/gGanondorfTitleCardFRATex": {
-    "hash": "2fc861b3c81ba97224be1034d536d5c4cdbf04aa242c6b7f3bb164530f1df5f4",
-    "textureType": 6,
+    "hash": "775e3f29842f99a4ffef12b43d5bc3fb18d1c3ff3e7613d4c02f1bd9b4f3e74f",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -60302,6 +60254,12 @@
   "scenes/shared/ganon_sonogo_scene/ganon_sonogo_room_2Tex_006640": {
     "hash": "53e16fdf194bc6574a9d13ed5f41579f4725a6f3601fe250f4255dece14aeb6a",
     "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "textures/icon_item_static/gGrabTex": {
+    "hash": "1fe829714995ba8fdda8df246ebba05bc89f0c9157cf2ab04e833b5e94710100",
+    "textureType": 1,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -60966,8 +60924,8 @@
     "textureHeight": 16
   },
   "textures/object_fd/gVolvagiaBossTitleCardFRATex": {
-    "hash": "f36d324444dbc3b53cbafe4fc1418cf12d8e1bc6a23313db0a681b6827633fc5",
-    "textureType": 6,
+    "hash": "c0d1c55745f7d9fda04f3e4d75321700fa11ca38dbc872f7a988ea54774a9481",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -61050,8 +61008,8 @@
     "textureHeight": 16
   },
   "objects/object_ganon/gGanondorfTitleCardTex": {
-    "hash": "f6b1056c04cc6f6b69ea3c1d9dc652ed306b0003de8ff5698db4082853c97ee7",
-    "textureType": 6,
+    "hash": "93938b44ed0f87d707efa48e146a589f7225d01915d91c59780e3695b286810b",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 120
   },
@@ -62225,6 +62183,12 @@
     "textureWidth": 144,
     "textureHeight": 24
   },
+  "objects/object_jabbernut/gSoHShadowTex": {
+    "hash": "2a9883959696bea487753426ae0df2f5ca645924e817f7dbb7339976c2990462",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "overlays/ovl_Boss_Ganon/ovl_Boss_GanonTex_020770": {
     "hash": "cbc99b169c6b577d1b486392985df68a7106ee3f61932ffc9ee2644b29b16f0a",
     "textureType": 6,
@@ -62244,8 +62208,8 @@
     "textureHeight": 16
   },
   "objects/object_fhg/gPhantomGanonTitleCardTex": {
-    "hash": "b12c73f41dbbd4fd065744d156a88bfa8878c87941ecb2e9bc99c76dc7d50c0d",
-    "textureType": 6,
+    "hash": "a56b6907526f285bb232440b71ca68758836eee2c349e45ee98a4b47e8001ed9",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -62591,17 +62555,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/syotes_scene/syotes_room_0Tex_0069E8": {
-    "hash": "388a4add2a2114fb32a7a5298588d6381cf0abd771b18b651940cff6e32724d3",
-    "textureType": 2,
-    "textureWidth": 64,
-    "textureHeight": 32
-  },
   "textures/map_i_static/gJabuRoom4MinimapTex": {
     "hash": "885d05cae4ab5b05c93fc8914ab0302b0fe713d685b2136cf95d2a55ff78bc94",
     "textureType": 5,
     "textureWidth": 96,
     "textureHeight": 85
+  },
+  "scenes/shared/syotes_scene/syotes_room_0Tex_0069E8": {
+    "hash": "388a4add2a2114fb32a7a5298588d6381cf0abd771b18b651940cff6e32724d3",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 32
   },
   "scenes/mq/jyasinzou_scene/jyasinzou_room_4Tex_003698": {
     "hash": "e08403131610279c7a421270c62f90a5cdec3a67767de8f0f5d3d868f002fd3c",
@@ -62933,6 +62897,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "textures/icon_item_static/gCrawlTex": {
+    "hash": "ed632aa4cd9da6ee4e9c61efe2d5a68b3d7d4e6ff4c3d8e42455f48ed02044fa",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_ganon/gGanondorfNoseBridgeTex": {
     "hash": "a693abe7fe9f262d818c0870319f836e3943bdaabf46bb37189ec620b537fffb",
     "textureType": 2,
@@ -63216,8 +63186,8 @@
     "textureHeight": 16
   },
   "textures/object_mo/gMorphaTitleCardGERTex": {
-    "hash": "8f607b528e62048f98ea80793b2d33d92d222136ba56787cb2e1451c2dbdb763",
-    "textureType": 6,
+    "hash": "d77095b9d2c1a6840d2d881d6e1c83d178fc70cb0a8d40e07bb3410c4e586ed8",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -64030,12 +64000,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "objects/object_rocs_feather/eff_unknown_12_i8": {
-    "hash": "ead7a552fbf3443cbf24e2778159680e3584864048815ca1892161efcd97053d",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "scenes/mq/ddan_scene/ddan_room_12Tex_003F80": {
     "hash": "a61997451a76bae753c2b0d2a962983b35ffb1859e4616d52f01dce4b3c8d990",
@@ -66084,8 +66048,8 @@
     "textureHeight": 32
   },
   "textures/object_ganon2/gGanonTitleCardFRATex": {
-    "hash": "41d046c882e520c099a7d5828b80e1a136c1dd6ce4d81d959cc62950e1ea06ba",
-    "textureType": 6,
+    "hash": "907c1026999355dbc08f64f32bae4c57bb044bb9cd0fe3c68191fb6c64ccd364",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -66468,8 +66432,8 @@
     "textureHeight": 16
   },
   "objects/object_goma/gGohmaTitleCardTex": {
-    "hash": "83e33d6725730bdb3f150150e06bdebac7653f099e4feaca9000ef27422c89ec",
-    "textureType": 6,
+    "hash": "646092f1ea9556023e99c682c6a88202a4e122261fb4024af9a32477e566905b",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -66774,8 +66738,8 @@
     "textureHeight": 64
   },
   "textures/object_tw/gTwinrovaTitleCardENGTex": {
-    "hash": "764a583f4f2a38ae047c2c5116088818dd7c74e237e74402d773d798ac3cb86f",
-    "textureType": 6,
+    "hash": "0cdba352032bd9068072efef36fa5950dcd52d57b72da660f0aef41b7a0f3b23",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -68285,6 +68249,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_nutbag/BagString": {
+    "hash": "0ad2793cb8cec0e01329ef2cf8f3ac4fb42829d0c2f971ff639a522bb9039bbc",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/shared/hairal_niwa_scene/hairal_niwa_sceneTex_007390": {
     "hash": "d8cdc3882633d0dbe64dab3091d1c27c1d62036188809c83b7620b8beca681e8",
     "textureType": 5,
@@ -68957,12 +68927,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_bosskey/Hilite_Caustics2": {
-    "hash": "7df8a8c119d45b11f9530143d2e39b78a462dbf9762f26bd05ad1fbbfff4ae9b",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_oE5/object_oE5_Tex_003640": {
     "hash": "8b945e9dc9a1f1ecbae725907ddcd80ab60eac92e5db56192b6c6d5fdc86db74",
     "textureType": 4,
@@ -69275,12 +69239,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_triforce_completed/noise_tex": {
-    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/kanji/gMsgKanji8A51Tex": {
     "hash": "d56feb795ab0db1065b732c7fcbf415c6cf89152a9d615d8afcd9b1fdf1c8e76",
     "textureType": 5,
@@ -69461,6 +69419,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_housekey/gSoHHouseKeyTagFrontTex": {
+    "hash": "0769ad1a66f60d5ac6789a4f5d44b474ebf1ec6d0ff7b1ffc663cfb1b72e98ac",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "scenes/mq/ddan_scene/ddan_room_4Tex_008D58": {
     "hash": "4b3c279cf65479b16f545f34e8ed99a41d1d817e0ba56d39e75abf8d090fb568",
     "textureType": 4,
@@ -69572,6 +69536,12 @@
   "objects/object_hidan_objects/object_hidan_objectsTex_006C40": {
     "hash": "8c2894d4bf85af639ddd235f1ba055fff93177c8b964ac04f9871a9758b7fe17",
     "textureType": 3,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_nutbag/Gradient": {
+    "hash": "f714ccb9a8ca39e3679de9533c68dcf097b4183b6ed396f6f9f85d51cf4cef3c",
+    "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -69852,8 +69822,8 @@
     "textureHeight": 85
   },
   "textures/object_goma/gGohmaTitleCardFRATex": {
-    "hash": "7b84676ae9f5d1a6f650994d5a4872492851c7748003a4efb9b926318bdf7870",
-    "textureType": 6,
+    "hash": "795e911a6527c01b769ee4eb1e213db4ec913f4a9a878a777ba29a6f2342e22b",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -70356,8 +70326,8 @@
     "textureHeight": 32
   },
   "textures/object_sst/gBongoTitleCardFRATex": {
-    "hash": "b724ec336d237b9e1223dfc59e603ec86beb88fa8bc05b4c90d7f86542b340c3",
-    "textureType": 6,
+    "hash": "9dfa3d1b4a53c6a58a06c3272eacc570a6be66d6825963ae8ec53aedc1c15373",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -73062,8 +73032,8 @@
     "textureHeight": 16
   },
   "textures/object_goma/gGohmaTitleCardGERTex": {
-    "hash": "0e5fbf051b5e28b2f61d192c08ce51485c6afba06fa76f794cb6e5d7e13989cd",
-    "textureType": 6,
+    "hash": "467a65e2bd1ac14cb4f83d34261464018b3bb1fd792d7227ba628daae48b7056",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -73686,8 +73656,8 @@
     "textureHeight": 32
   },
   "objects/object_kingdodongo/gKingDodongoTitleCardTex": {
-    "hash": "1a7df5beffe94878b1b9a286c66f6f91a01f03a9babcab31d7f00514bb58f639",
-    "textureType": 6,
+    "hash": "fcd006844b6ab42a97ca9b6e7503890807b10f2b63eadabf56da98406e212eee",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 80
   },
@@ -74141,12 +74111,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_rocs_feather/eff_unknown_12.i8": {
-    "hash": "ead7a552fbf3443cbf24e2778159680e3584864048815ca1892161efcd97053d",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/kanji/gMsgKanji9648Tex": {
     "hash": "602ed7fa81e256efb53ac90c80f5df3d5dd1609701857df7298530bd1f0bfd21",
     "textureType": 5,
@@ -74526,8 +74490,8 @@
     "textureHeight": 16
   },
   "textures/object_mo/gMorphaTitleCardJPNTex": {
-    "hash": "ecc455b94ed62fd5f2d25cf8e2fa6d2c9e05ea7ee2a13c975d83373fd9904bd6",
-    "textureType": 6,
+    "hash": "be93b9ff2d488a0f568fc225ee78be85a894a532415848003622e2b9eeb296c9",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -74939,17 +74903,17 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "objects/object_dnk/object_dnkTex_002850": {
-    "hash": "2057d494d116c6a9d9ebc0fb0cdeaa49df6c9211df7b4074e4f45be1f6052f20",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/shared/souko_scene/souko_room_1Tex_007118": {
     "hash": "04a7d756a900cb4e893f5cd818cc3d9fd3c2cb706a24785621dea591ac96aedc",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "objects/object_dnk/object_dnkTex_002850": {
+    "hash": "2057d494d116c6a9d9ebc0fb0cdeaa49df6c9211df7b4074e4f45be1f6052f20",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "textures/kanji/gMsgKanji984BTex": {
     "hash": "ecfff713ea595c63d4d72ed547e31c2e4a9158c678bce674d371f33baefaca99",
@@ -75874,12 +75838,6 @@
     "textureType": 6,
     "textureWidth": 64,
     "textureHeight": 64
-  },
-  "objects/object_keyring/Hilite_new.rgba16": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
   },
   "objects/object_jj/gJabuJabuNoseDecorationTex": {
     "hash": "cfec409320be098340ca10a829c57ffcd4144c99fc1cb58c6a90502b6a369c3e",
@@ -77399,12 +77357,6 @@
     "textureWidth": 128,
     "textureHeight": 16
   },
-  "objects/object_triforce_piece_1/noise_tex": {
-    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_gi_niwatori/object_gi_niwatoriTex_000800": {
     "hash": "7b97e401425d2724eaeaf66fa1cec45479804a2ed0097e52e9edbfd32d42031c",
     "textureType": 8,
@@ -78336,8 +78288,8 @@
     "textureHeight": 64
   },
   "textures/object_bv/gBarinadeTitleCardENGTex": {
-    "hash": "d767af83934cf9bea97d1b1a2b1bed2197f7b88cf5487980a6ebea6b86298d07",
-    "textureType": 6,
+    "hash": "91a572ca6292851ec9f790d8ba38e7702d4ac8dde879230bba4d30f50de1a01e",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -78881,6 +78833,12 @@
     "textureWidth": 128,
     "textureHeight": 16
   },
+  "objects/object_bosskey/gSoHHiliteCausticsTex": {
+    "hash": "42f61cc34ed2d658ebcd631b9a3bdaaca78591eae342abb0da67a6fc90da7fbf",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/shared/hakasitarelay_scene/hakasitarelay_room_6Tex_0041A8": {
     "hash": "c4d435f66b36957f92cfe0611cb27aa9a8e577174cb5a7dd13573582b2042c08",
     "textureType": 2,
@@ -79073,17 +79031,17 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
-  "objects/gameplay_keep/gEffEnemyDeathFlame5Tex": {
-    "hash": "83e853c4998f740b8d38beae939f9e502d28206728c741f7ad6d0d33f3227b60",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "objects/gameplay_keep/gEffHitMark23Tex": {
     "hash": "2cbc88b56f3e590e593ff925e91bb296cd21a5fe98e73636c02d98bb382e3340",
     "textureType": 5,
     "textureWidth": 32,
     "textureHeight": 24
+  },
+  "objects/gameplay_keep/gEffEnemyDeathFlame5Tex": {
+    "hash": "83e853c4998f740b8d38beae939f9e502d28206728c741f7ad6d0d33f3227b60",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "objects/object_kw1/gKw1EarTex": {
     "hash": "3214ccb8ae6c8ad921c26e1ba2eb4a5db5395d22204fb371192e4b13fcbb9476",
@@ -79266,8 +79224,8 @@
     "textureHeight": 16
   },
   "textures/object_goma/gGohmaTitleCardJPNTex": {
-    "hash": "c1b812300d3e64e02b320e1b65869561ab6d6d53725aa32fdf7cb5cc80183fb8",
-    "textureType": 6,
+    "hash": "b9494c14a7ca7d87dfa43b147dde6538414f2a75c93f5ba53e1b0cbeecde6f32",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -79734,8 +79692,8 @@
     "textureHeight": 16
   },
   "textures/object_bv/gBarinadeTitleCardFRATex": {
-    "hash": "d60fd7f5ec3e4a9ca29345902ee54a2b509d8801b694b64cfd87445c29716f0f",
-    "textureType": 6,
+    "hash": "0012abcaf01f46f426d9f0d9524eb10c5070b939f7f1c4ce8fd0a1f4203b2bde",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -80088,8 +80046,8 @@
     "textureHeight": 4
   },
   "textures/object_ganon2/gGanonTitleCardJPNTex": {
-    "hash": "b5bc20f9439a75c494675946aab2f35512d170af8d1258e7fccaeb96f9572752",
-    "textureType": 6,
+    "hash": "7be96f8718486d7a09109765730972829e23ab40cc18977111f1e7508e0712d2",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -80160,8 +80118,8 @@
     "textureHeight": 32
   },
   "textures/object_tw/gTwinrovaTitleCardFRATex": {
-    "hash": "35731f8aae87b74be682c7fcd3a9a8cea8f9048bc0eb94068dada7565aeb01f2",
-    "textureType": 6,
+    "hash": "83c9cc04bc59899c5f8e1bd0dfdb258c8a33aed9c46857f9a61d41387e6ac48a",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -81533,12 +81491,6 @@
     "textureWidth": 96,
     "textureHeight": 85
   },
-  "objects/object_triforce_piece_2/noise_tex": {
-    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Bmori1_scene/Bmori1_room_13Tex_0082A8": {
     "hash": "13f6cc60a44ee56aebe1aab20535531ae0cf828650a70d3664ec1eb3649c7429",
     "textureType": 9,
@@ -81725,17 +81677,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/shared/besitu_scene/besitu_room_0Tex_0044D8": {
-    "hash": "02df4e5206fa601e55c1d0e3329080ce23c18d6ec4ac678027197cc0e689e10d",
-    "textureType": 7,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "textures/map_grand_static/gGerudoValleyWithBrokenBridgeMinimapTex": {
     "hash": "64d0f9375573329d9ee8f933a7aac4fd67a015fe15f3fe56b02054344f24803f",
     "textureType": 7,
     "textureWidth": 80,
     "textureHeight": 65
+  },
+  "scenes/shared/besitu_scene/besitu_room_0Tex_0044D8": {
+    "hash": "02df4e5206fa601e55c1d0e3329080ce23c18d6ec4ac678027197cc0e689e10d",
+    "textureType": 7,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "textures/kanji/gMsgKanji88BATex": {
     "hash": "578be89a5174fdeb6de2cba9d55c52840a96bcf41ae8bf3b0d4f93809bc91bba",
@@ -82344,8 +82296,8 @@
     "textureHeight": 16
   },
   "textures/object_ganon/gGanondorfTitleCardENGTex": {
-    "hash": "d55f03ea4f433ace8a7f5ea82a7d1be04fcebb4a3f67ad89abb7d3f3e7fb4e93",
-    "textureType": 6,
+    "hash": "e8c3eee90823a3eb9045d00407dced9e5008f2aec679ff8f604f46ac0424bbe4",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -82493,14 +82445,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/mq/HIDAN_scene/HIDAN_sceneTex_0195D0": {
-    "hash": "b644928d6aa192a220eba6164be00eabc366e04575f2e60cafb6bdf73013a892",
+  "scenes/mq/HIDAN_scene/HIDAN_room_4Tex_0070F0": {
+    "hash": "6fe32f7d0362c679b866a1e6847bf0d6cf148fcc5fe0b19576991f5e548ac2e7",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/mq/HIDAN_scene/HIDAN_room_4Tex_0070F0": {
-    "hash": "6fe32f7d0362c679b866a1e6847bf0d6cf148fcc5fe0b19576991f5e548ac2e7",
+  "scenes/mq/HIDAN_scene/HIDAN_sceneTex_0195D0": {
+    "hash": "b644928d6aa192a220eba6164be00eabc366e04575f2e60cafb6bdf73013a892",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -83012,12 +82964,6 @@
   "objects/object_link_child/gLinkChildDekuShieldBackTex": {
     "hash": "cb4b6bc93b8db91562a0e087476a1779464d5ce6d41723844628ca40ba5af928",
     "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
-  "objects/object_ocarina_c_down_button/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -84431,12 +84377,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "textures/title_static/gFileSelMQButtonTex": {
-    "hash": "2a7662c6b9d60b869d8f23ebca1eb1fda4f0acd1c357120228c20a850da1048b",
-    "textureType": 9,
-    "textureWidth": 44,
-    "textureHeight": 16
-  },
   "scenes/mq/Bmori1_scene/Bmori1_room_0Tex_0074F8": {
     "hash": "1da97aab4c460849c34b763a2c56569d2c0c2a4a765bc457a06750bf0f4c244d",
     "textureType": 2,
@@ -85799,6 +85739,12 @@
     "textureWidth": 64,
     "textureHeight": 16
   },
+  "objects/object_stickbag/Gradient": {
+    "hash": "f714ccb9a8ca39e3679de9533c68dcf097b4183b6ed396f6f9f85d51cf4cef3c",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "textures/map_name_static/gHyruleFieldPointNameGERTex": {
     "hash": "cba76fdf466cc6b63e4e936e8482e820e480f9e12b8720e8f71e9eef009279b2",
     "textureType": 7,
@@ -86699,12 +86645,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_housekey/Hilite_new": {
-    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "textures/parameter_static/gAmmoDigit1Tex": {
     "hash": "28ff5410eec813a9fb851b60c59c15c4b6b354fb81f4b02f689e5292e067caaa",
     "textureType": 8,
@@ -87216,8 +87156,8 @@
     "textureHeight": 24
   },
   "textures/object_mo/gMorphaTitleCardENGTex": {
-    "hash": "8965924f32c53b9fd3a2770ee8e407d8547a78926410d86c34641a32aad6c11e",
-    "textureType": 6,
+    "hash": "8148527e2ff9cafed9752e8e6a18d2dcffc1c5f448d63323e7c0ac39f1083cb8",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -87846,8 +87786,8 @@
     "textureHeight": 16
   },
   "textures/object_fd/gVolvagiaBossTitleCardGERTex": {
-    "hash": "75461d7c5054da1399a5d377b78d937ea67bb1dc77a1613cbcf3a3a256f641af",
-    "textureType": 6,
+    "hash": "bc78f64ee9bb5c71e4588b38f2f6cf57eb5a0dca3a3785ace875e48d1db282d6",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -88518,8 +88458,8 @@
     "textureHeight": 64
   },
   "textures/object_fhg/gPhantomGanonTitleCardENGTex": {
-    "hash": "a9dab74a87f9def049f134197ad87bc052769e95f2272e441376be7c9b7e8ca6",
-    "textureType": 6,
+    "hash": "ef03bac82134da4c0da442531a2de61f5a14f8115d44675ab41de30b2d36523e",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -88644,8 +88584,8 @@
     "textureHeight": 32
   },
   "textures/object_sst/gBongoTitleCardENGTex": {
-    "hash": "fda7c585e89207d19e97ac6f45a1b5a6b6e5c92d9b1e7a3da6a5f8f7eb67f948",
-    "textureType": 6,
+    "hash": "a698208f283e3ef0093ba477e3fb05c85f296d9a0490c4958ea8edac8ffc8d1c",
+    "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 40
   },
@@ -89584,12 +89524,6 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
-  },
-  "objects/object_ocarina_c_left_button/noise_tex": {
-    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "objects/object_fish/gFishingLoachTex_00FD28": {
     "hash": "823552820bbac2e88e0812d19b8f1ea6a02305b9f7aaf17edca63dbdf9bbf239",
