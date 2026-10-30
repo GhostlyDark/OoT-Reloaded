@@ -872,6 +872,27 @@
         },
         {
             "hashes": {
+                "rice": "87c57d0c#2#1#e93fcfeb",
+                "rt64": "db06d1f50ce8446a"
+            },
+            "path": "Link\\Swords\\Master Sword\\Grip\\THE LEGEND OF ZELDA#4E064F39#0#2_all"
+        },
+        {
+            "hashes": {
+                "rice": "b15169ac#2#1#7de4c437",
+                "rt64": "70490b31f3682f87"
+            },
+            "path": "Link\\Swords\\Master Sword\\Grip\\THE LEGEND OF ZELDA#4E064F39#0#2_all"
+        },
+        {
+            "hashes": {
+                "rice": "c3568b27#2#1#6274091e",
+                "rt64": "0ec49da132ddc636"
+            },
+            "path": "Link\\Swords\\Master Sword\\Grip\\THE LEGEND OF ZELDA#4E064F39#0#2_all"
+        },
+        {
+            "hashes": {
                 "rice": "bb7b113b#0#2",
                 "rt64": "01560ace22594ad4"
             },
@@ -12480,13 +12501,6 @@
             "hashes": {
                 "rice": "09b32b7d#0#2",
                 "rt64": "11fdcfe7113ae1ec"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "b15169ac#2#1#7de4c437",
-                "rt64": "1202bae90e845de1"
             },
             "path": ""
         },
@@ -77748,13 +77762,6 @@
             "hashes": {
                 "rice": "86700899#4#0",
                 "rt64": "77be5b61eccb121b"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "c3568b27#2#1#6274091e",
-                "rt64": "77bf2fd60579fdf2"
             },
             "path": ""
         },
@@ -170447,13 +170454,6 @@
         },
         {
             "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "0edd7ac8d6156004"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "2f53ded3#4#0",
                 "rt64": "0fd5ec5cef1dca10"
             },
@@ -236744,13 +236744,6 @@
         },
         {
             "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "017b0333bc4dbfe2"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "fdd4cfd7#2#1#48160a5c",
                 "rt64": "01bcfb76bb2ab494"
             },
@@ -237061,13 +237054,6 @@
             "hashes": {
                 "rice": "1c006db0#2#1#bd54fba0",
                 "rt64": "0a757c68b4831579"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "0acbfce9db6b638b"
             },
             "path": ""
         },
@@ -238279,13 +238265,6 @@
             "hashes": {
                 "rice": "f11dc829#2#0#c5ca9251",
                 "rt64": "29340a10c9232eca"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "2955be1e66b7cd44"
             },
             "path": ""
         },
@@ -239812,13 +239791,6 @@
             "hashes": {
                 "rice": "5d4d6d07#2#1#4a1f1386",
                 "rt64": "4e62ceeb0d90b6e1"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "4e71082586b2b679"
             },
             "path": ""
         },
@@ -241807,13 +241779,6 @@
             "hashes": {
                 "rice": "b331e924#2#1#d62b2768",
                 "rt64": "7f884cdecfe97073"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "7fd9b8e96d0497ed"
             },
             "path": ""
         },
@@ -245760,13 +245725,6 @@
         },
         {
             "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "e0af4d97c3f2a57f"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "8c57ac3d#2#1#8eb7c6a4",
                 "rt64": "e0ec95bd7e116d70"
             },
@@ -246819,13 +246777,6 @@
             "hashes": {
                 "rice": "01453d2e#2#1#62edd11a",
                 "rt64": "f9ddeb2ee1fb6654"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "f9f612f81d3b673f"
             },
             "path": ""
         },
@@ -305148,13 +305099,6 @@
         },
         {
             "hashes": {
-                "rice": "c3568b27#2#1#6274091e",
-                "rt64": "0ec49da132ddc636"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "442dc6c1#2#1#d1c586fc",
                 "rt64": "0ec6e7c882677f4e"
             },
@@ -331568,13 +331512,6 @@
             "hashes": {
                 "rice": "db9a9538#0#2",
                 "rt64": "70489511a9c8e23d"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "b15169ac#2#1#7de4c437",
-                "rt64": "70490b31f3682f87"
             },
             "path": ""
         },
@@ -360205,13 +360142,6 @@
             "hashes": {
                 "rice": "26270419#2#1#46e3daf6",
                 "rt64": "dafb16c9e5145763"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "87c57d0c#2#1#e93fcfeb",
-                "rt64": "db06d1f50ce8446a"
             },
             "path": ""
         },
